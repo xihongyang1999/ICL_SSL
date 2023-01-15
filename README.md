@@ -66,11 +66,15 @@ python train.py
 If you use code or datasets in this repository for your research, please cite our paper.
 
 ```
-@article{yang2022interpolation,
-  title={Interpolation-based Contrastive Learning for Few-Label Semi-Supervised Learning},
+@ARTICLE{ICL_SSL,
   author={Yang, Xihong and Hu, Xiaochang and Zhou, Sihang and Liu, Xinwang and Zhu, En},
-  journal={arXiv preprint arXiv:2202.11915},
-  year={2022}
-}
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Interpolation-Based Contrastive Learning for Few-Label Semi-Supervised Learning}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TNNLS.2022.3186512}}
+
 ```
 
